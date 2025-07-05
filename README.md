@@ -15,7 +15,7 @@
 
 
  
-<h3 align="left">Connect with me:</h3> 
+<h3 align="left">Connect with me: mahidhar1337@gmail.com</h3> 
 <p align="left">
 </p>
 
@@ -36,14 +36,7 @@
 
   
 </p> 
-
- 
-<---------------------------------------------✍️ Random Dev Quotes--------------------------------------------->
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)-->
-<p align=center>
-  <img align="center" width=60% src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-<p>
- 
+  
 
 <p align=center>
   <img align="center" width=60% src="https://spotify-github-profile.vercel.app/api/view?uid=p9evly10gfby51rfymrv158sf&cover_image=true&theme=novatorem" />
