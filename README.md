@@ -1,4 +1,3 @@
-![](https://github.com/obi-reddy/obi-reddy/blob/28a8f60373006426ed6dff5ddf3d6f603281d675/Banner.gif)
 <h1 align="center">Hi 👋, I'm Mahidhar Reddy Vaka</h1>
 <h3 align="center">Full Stack Developer with Expertise in Java, Python, JavaScript, HTML/CSS and Amazon Web Services</h3>   
 <!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
